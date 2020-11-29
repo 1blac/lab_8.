@@ -1,0 +1,3 @@
+﻿  UnitTest8.1.cpp
+C:\Users\1\source\repos\lab_8_\lab_8_\Source.cpp(7,23): warning C4018: '<': signed/unsigned mismatch
+  UnitTest8.1.vcxproj -> C:\Users\1\source\repos\lab_8_\Debug\UnitTest8.1.dll
